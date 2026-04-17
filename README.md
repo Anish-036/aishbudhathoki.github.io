@@ -29,6 +29,14 @@ This site contains explanations of semiconductor physics, materials science, and
 - Laplace Transform Applications  
 
 ---
+---
+## Articles
+
+- [PN Junction Diode](posts/pn-junction.md)
+
+
+---
+---
 
 ## About Me
 BSc Physics student interested in:
