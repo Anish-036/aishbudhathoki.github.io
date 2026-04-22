@@ -33,6 +33,7 @@ This site contains explanations of semiconductor physics, materials science, and
 ## Articles
 
 - [PN Junction Diode](posts/pn-junction.md)
+- [Semiconductor Basics](posts/semiconductor-basics.md)
 
 
 ---
