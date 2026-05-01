@@ -34,7 +34,7 @@ This site contains explanations of semiconductor physics, materials science, and
 
 - [Semiconductor Basics](posts/semiconductor-basics.md)
 - [PN Junction Diode](posts/pn-junction.md)
--[PN Junction Diode Detaik](posts/pn-junction-diode.md)
+- [PN Junction Diode Detail](posts/pn-junction-diode.md)
 
 
 ---
