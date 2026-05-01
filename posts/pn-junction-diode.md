@@ -134,10 +134,3 @@ It allows current in one direction and blocks in the other.
 Forward bias allows conduction, reverse bias blocks it.
 It is the basic building block of electronic devices.
 
----
-
-## Next Topic
-
-* Half Wave Rectifier
-* Full Wave Rectifier
-* Zener Diode
